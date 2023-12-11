@@ -1,4 +1,4 @@
-CKEditor 4
+CKEditor 4 Waping
 ==========
 
 Copyright (c) 2003-2022, CKSource Holding sp. z o.o. All rights reserved.
